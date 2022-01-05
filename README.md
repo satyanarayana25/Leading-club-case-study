@@ -23,10 +23,16 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Conclusion 1 from the analysis:
+- As per the analysis made more loan interest rate and borrower from rent and mortgage are more “charged off” chances.
+- ![image](https://user-images.githubusercontent.com/42166402/148252906-ffe0b431-96fa-4eb3-a119-123576d1b283.png)
+- Conclusion 2 from the analysis:
+- Interest rate increasing clearly that grades moving A to G, as the higher the grade higher the “charged off”
+- ![image](https://user-images.githubusercontent.com/42166402/148253009-0d316282-592f-4f58-99d4-4c959033f7cc.png)
+- Conclusion 3 from the analysis:
+- Annual income as the borrowers in very low means their are then to more “charged off”
+- ![image](https://user-images.githubusercontent.com/42166402/148253085-a6c73080-3997-4dda-a06d-9d4c74023e13.png)
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
