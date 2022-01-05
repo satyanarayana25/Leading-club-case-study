@@ -28,10 +28,10 @@
 - ![image](https://user-images.githubusercontent.com/42166402/148252906-ffe0b431-96fa-4eb3-a119-123576d1b283.png)
 - Conclusion 2 from the analysis:
 - Interest rate increasing clearly that grades moving A to G, as the higher the grade higher the “charged off”
-- ![3](https://user-images.githubusercontent.com/42166402/148259224-c4b04a80-8917-47de-bb6a-761573d2d0cb.png)
+- ![4](https://user-images.githubusercontent.com/42166402/148259256-3dd5a286-e18e-4371-a646-f4e193bf8bd1.png)
 - Conclusion 3 from the analysis:
 - Annual income as the borrowers in very low means their are then to more “charged off”
-- ![4](https://user-images.githubusercontent.com/42166402/148259256-3dd5a286-e18e-4371-a646-f4e193bf8bd1.png)
+-  ![3](https://user-images.githubusercontent.com/42166402/148259224-c4b04a80-8917-47de-bb6a-761573d2d0cb.png)
 
 
 
