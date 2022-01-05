@@ -40,13 +40,20 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by Fintech compnay and online leding company for small loan
+- References for pandas and matplotlibs
+1. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.qcut.html
+2. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot.html
+3. https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.boxplot.html
+
+- This project was based on  fintech company like ZestMoney and paytm etc..
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Satyanarayana k & vinoth.kanagarathinam
+batch -1993
+PG in ML and AI
+-feel free to contact us!
 
 
 <!-- Optional -->
